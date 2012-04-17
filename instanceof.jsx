@@ -1,0 +1,1 @@
+﻿var firstListItem = app.activeDocument.selection[0];if(firstListItem instanceof TextFrame){alert("I am a TextFrame");        }
